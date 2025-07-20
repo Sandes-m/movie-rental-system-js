@@ -36,7 +36,7 @@ Dica: O link acima é via SSH. Se preferir usar HTTPS, substitua pelo link HTTPS
 
 2. **Acessando diretamente no navegador** 
 
-Acesse o projeto online no | [Vercel](movie-rental-system-js.vercel.app)
+Acesse o projeto online no | [Vercel](https://movie-rental-system-js.vercel.app/)
 
 
 ## 🧰 Tecnologias usadas
